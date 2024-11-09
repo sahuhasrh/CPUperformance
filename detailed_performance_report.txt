@@ -1,0 +1,25 @@
+Advanced CPU, Cache, and Parallel Performance Analysis Report
+=====================================================
+
+System Information:
+CPU: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+Cores/Threads: 4 / 8
+OS: Windows 11
+
+CPU Performance Metrics:
+Average CPU Usage: 3.88%
+Peak CPU Usage: 10.60%
+
+RAM Usage:
+Average RAM Usage: 85.52%
+
+CPI/IPC Metrics:
+Average CPI: 1.50
+Average IPC: 0.66
+
+Thread Performance:
+Average Thread Usage: 3.84%
+
+Power and Thermal Metrics:
+Average Temperature: 42.30°C
+Average Power Draw: 22.10W
